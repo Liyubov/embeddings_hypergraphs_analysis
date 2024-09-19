@@ -8,9 +8,9 @@ The framework consists of several steps:
 1. we apply the embedding model to the datapoints $D_i$ with the metadata $m_i$; 
 See notebook hypergraph_creation_embedding_space.ipynb
 2. we apply standard ML metrics (confusion matrix, accuracy scores) to deduce scores against the embedding model producing the vectorisation of datapoints $D_i$ using the true labels of clusters $m_i$; 
-See notebook hypergraph_confusion_matrix.ipynb
+See notebook hypergraph_confusion_matrix.ipynb in [this notebooks folder](https://github.com/Liyubov/embeddings_hypergraphs_analysis/blob/main/notebooks)
 3. we calculate hypergraph motifs in hypergraphs HD constructed from both the embedded textual data $D_i$ and hypergraph obtained from just the metadata $m_i$. Motifs in hypergraphs are subhypergraphs structures [Battiston et al. 2020]. We also perform testing of hypergraph measures against the null models.
-See notebook random_testing_arxiv_hypergraph_decades.ipynb 
+See notebook random_testing_arxiv_hypergraph_decades.ipynb and this [notebook](https://github.com/Liyubov/embeddings_hypergraphs_analysis/blob/main/notebooks/subhypergraph_creation.ipynb)
 [Battiston et al. 2020] F. Battiston, G. Cencetti, I. Iacopini, V. Latora, Maxime Lucas, Alice Patania, Jean-Gabriel Young, Giovanni Petri, Networks beyond pairwise interactions: Structure and dynamics, Physics Reports, Volume 874, (2020)
 
 
