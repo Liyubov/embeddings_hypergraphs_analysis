@@ -11,8 +11,11 @@ See notebook hypergraph_creation_embedding_space.ipynb
 See notebook hypergraph_confusion_matrix.ipynb in [this notebooks folder](https://github.com/Liyubov/embeddings_hypergraphs_analysis/blob/main/notebooks)
 3. we calculate hypergraph motifs in hypergraphs HD constructed from both the embedded textual data $D_i$ and hypergraph obtained from just the metadata $m_i$. Motifs in hypergraphs are subhypergraphs structures [Battiston et al. 2020]. We also perform testing of hypergraph measures against the null models.
 See notebook random_testing_arxiv_hypergraph_decades.ipynb and this [notebook](https://github.com/Liyubov/embeddings_hypergraphs_analysis/blob/main/notebooks/subhypergraph_creation.ipynb)
-[Battiston et al. 2020] F. Battiston, G. Cencetti, I. Iacopini, V. Latora, Maxime Lucas, Alice Patania, Jean-Gabriel Young, Giovanni Petri, Networks beyond pairwise interactions: Structure and dynamics, Physics Reports, Volume 874, (2020)
+4. comparison with hypergraph null model (notebook in progress) [Chodrow et al. 2024]
 
+
+\item [Battiston et al. 2020] F. Battiston, G. Cencetti, I. Iacopini, V. Latora, Maxime Lucas, Alice Patania, Jean-Gabriel Young, Giovanni Petri, Networks beyond pairwise interactions: Structure and dynamics, Physics Reports, Volume 874, (2020)
+\item [Chodrow et al. 2024] P. Chodrow et al. https://www.philchodrow.prof/talks/2024-netsci-satellite/#/section-5 Netsci (2024)
 
 # Contributions
 
