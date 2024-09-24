@@ -13,11 +13,11 @@ see notebook hypergraph_confusion_matrix.ipynb in [this notebooks folder](https:
 See notebook random_testing_arxiv_hypergraph_decades.ipynb and this [notebook](https://github.com/Liyubov/embeddings_hypergraphs_analysis/blob/main/notebooks/subhypergraph_creation.ipynb)
 4. comparison with hypergraph null model (notebook in progress) [Chodrow et al. 2024] [notebook in progress](https://github.com/Liyubov/embeddings_hypergraphs_analysis/blob/main/notebooks/testing_null_models_hypergraphs.ipynb))
 
+[Battiston et al. 2020] F. Battiston, G. Cencetti, I. Iacopini, V. Latora, Maxime Lucas, Alice Patania, Jean-Gabriel Young, Giovanni Petri, Networks beyond pairwise interactions: Structure and dynamics, Physics Reports, Volume 874, (2020)
 
-$\item$ [Battiston et al. 2020] F. Battiston, G. Cencetti, I. Iacopini, V. Latora, Maxime Lucas, Alice Patania, Jean-Gabriel Young, Giovanni Petri, Networks beyond pairwise interactions: Structure and dynamics, Physics Reports, Volume 874, (2020)
-$\item$ [Chodrow et al. 2024] P. Chodrow et al. https://www.philchodrow.prof/talks/2024-netsci-satellite/#/section-5 Netsci (2024)
+[Chodrow et al. 2024] P. Chodrow et al. https://www.philchodrow.prof/talks/2024-netsci-satellite/#/section-5 Netsci (2024)
 
 # Contributions
 
 This is common work done together at Nokia Bell labs, submitted to the CNA 2024 conference with Hritika Kathuria (short paper in collaboration).
-This work is in progress, do share more suggestions and your comments in issues https://github.com/Liyubov/embeddings_hypergraphs_analysis/issues 
+This work is in progress, do share more suggestions and your comments in issues [here](https://github.com/Liyubov/embeddings_hypergraphs_analysis/issues)
