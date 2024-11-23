@@ -19,5 +19,6 @@ See notebook random_testing_arxiv_hypergraph_decades.ipynb and this [notebook](h
 
 # Contributions
 
-This is common work done together at Nokia Bell labs, submitted to the CNA 2024 conference with Hritika Kathuria (short paper in collaboration).
+This is common work done together at Nokia Bell labs, accept. to the CNA 2024 conference with Hritika Kathuria (short paper in collaboration).
 This work is in progress, do share more suggestions and your comments in issues [here](https://github.com/Liyubov/embeddings_hypergraphs_analysis/issues)
+This work is also related to the work on hypergraph distances https://github.com/Liyubov/hypergraph_distances
